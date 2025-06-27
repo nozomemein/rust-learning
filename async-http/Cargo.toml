@@ -1,0 +1,9 @@
+[package]
+name = "async-http"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+async-std = "1.7"
+surf = "2.3.0"
